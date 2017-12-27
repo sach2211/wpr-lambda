@@ -1,0 +1,23 @@
+{
+  "name": "wprlambda",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sach2211/wpr-lambda.git"
+  },
+  "author": "sach2211",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sach2211/wpr-lambda/issues"
+  },
+  "homepage": "https://github.com/sach2211/wpr-lambda#readme",
+  "dependencies": {
+    "nodemailer": "^4.4.1",
+    "webpagetest": "^0.3.8"
+  }
+}
